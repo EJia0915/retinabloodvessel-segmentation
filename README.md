@@ -21,8 +21,7 @@ This project focuses on **retinal blood vessel segmentation** using **filter-bas
    - **Connected Component Analysis**: Removes noise and improves accuracy.  
 
 ## 📈 Results  
-- Achieved **94.84% average accuracy** in blood vessel segmentation.  
-- Improved sensitivity (**72.93%**) and specificity (**98.07%**).  
+- Achieved **94.84% average accuracy** in blood vessel segmentation.   
 - Outperforms several existing segmentation techniques.  
 
 ## 🚀 How to Run the Program  
